@@ -15,7 +15,7 @@
                 <nav>
                     <ul class="nav-menu">
                         <li class="nav-menu__item"><a href="/" class="nav-menu__item__link nav-menu__item__link_state_current">weblog</a></li>
-                        <li class="nav-menu__item"><a href="/archiv" class="nav-menu__item__link">archiv</a></li>
+                        <!-- <li class="nav-menu__item"><a href="/archiv" class="nav-menu__item__link">archiv</a></li> -->
                         <li class="nav-menu__item"><a href="http://fotos.madcatswelt.org/" class="nav-menu__item__link">fotos</a></li>
                     </ul>
                 </nav>
