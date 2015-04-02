@@ -19,7 +19,9 @@
                         <li class="nav-menu__item"><a href="http://fotos.madcatswelt.org/" class="nav-menu__item__link">fotos</a></li>
                     </ul>
                 </nav>
-                <p class="header__title"><?php bloginfo('name'); ?></p>
+                <p class="header__title">
+                    <a href="/" class="header__title__link"><?php bloginfo('name'); ?></a>
+                </p>
             </div>
         </header>
         <div class="container container_state_main">
