@@ -7,6 +7,8 @@ if(have_posts()) {
         the_post();
         get_template_part('article', get_post_format());
     }
+
+    get_template_part('pagination', 'none');
 }
 
 get_footer();
